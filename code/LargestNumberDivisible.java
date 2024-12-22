@@ -1,3 +1,4 @@
+package code;
 public class LargestNumberDivisible {
     public static void main(String[] args) {
         // Start from the largest 4-digit number
